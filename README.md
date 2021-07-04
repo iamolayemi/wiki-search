@@ -1,6 +1,6 @@
-# wiki-search
+# Wiki Search
 
-A simple search engine that leverage the Wikipedia API.
+A simple search engine that leverage the Wikipedia API. Made with VueJS
 
 ## Project setup
 
