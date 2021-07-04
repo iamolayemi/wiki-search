@@ -79,10 +79,6 @@ export default {
         console.log(response.statusText);
       }
 
-      if (!response.ok) {
-        console.log(response.statusText);
-      }
-
       const data = await response.json();
 
       currentResults.value = data.continue ?? {};
