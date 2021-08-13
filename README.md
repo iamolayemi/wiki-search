@@ -1,6 +1,10 @@
 # Wiki Search
 
-A simple search engine that leverage the Wikipedia API. Made with VueJS
+A simple search engine that leverage the Wikipedia API. Made with Vue3
+
+## Demo URL
+
+https://yz-wiki-search.netlify.app
 
 ## Project setup
 
